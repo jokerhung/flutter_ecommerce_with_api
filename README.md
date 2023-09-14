@@ -19,3 +19,8 @@ This application is designed in bloc pattern like following:
 ## Api
 
 This application use demo api from https://fakestoreapi.com/docs
+
+## How to run
+- Open project by visual studio code
+- run command line: flutter pub get
+- Press F5 to run application in simulator or browser
